@@ -73,6 +73,3 @@ This admin panel interacts with the same database/API as the **GlimmerStore**. A
 This project is licensed under the MIT License.
 
 ---
-Part of the Glimmer Ecosystem by [ibragmv](https://github.com/ibragmv)
-
----
