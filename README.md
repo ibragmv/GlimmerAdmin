@@ -19,7 +19,7 @@ Glimmer is built as a decoupled full-stack application:
 - **Analytics:** Visual data representation using modern charting libraries.
 
 ## 🛠 Tech Stack
-- **Runtime:** [Bun](https://bun.sh/)
+- **Runtime:** [Bun](https://bun.sh)
 - **Frontend Framework:** React / Next.js (Change if you use Vue/Svelte)
 - **Styling:** Tailwind CSS
 - **State Management:** Zustand / TanStack Query
@@ -27,7 +27,7 @@ Glimmer is built as a decoupled full-stack application:
 
 ## 🚀 Installation & Setup
 
-Ensure you have [Bun](https://bun.sh/) installed.
+Ensure you have [Bun](https://bun.sh) installed.
 
 ### 1. Clone the repo
 ```bash
@@ -41,7 +41,7 @@ bun install
 ```
 
 ### 3. Environment Variables
-Rename a `.env.local` file and add your backend/API keys:
+Rename a `.env.example` file and add your backend/API keys:
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="clerk_public_key"
 CLERK_SECRET_KEY="clerk_secret_key"
