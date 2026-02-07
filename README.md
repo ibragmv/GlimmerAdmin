@@ -5,7 +5,6 @@ The professional administrative dashboard for the **Glimmer** e-commerce ecosyst
 > [!IMPORTANT]
 > This is the **Admin Panel** part of the project. To see the customer-facing storefront, visit [GlimmerStore](https://github.com/ibragmv/GlimmerStore).
 
-🔗 **Live Demo:** [admin.glimmer.example.com](https://admin-glimmer.vercel.app) (Replace with your link)
 
 ## 🏗 Project Architecture
 Glimmer is built as a decoupled full-stack application:
